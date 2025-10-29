@@ -18,6 +18,7 @@ public class Proyecto_conflicto {
         // TODO code application logic here
         System.out.println("Hola mundo");
         System.out.println("adios mundo");
+        System.out.println("arriba españa");
     }
     
 }
