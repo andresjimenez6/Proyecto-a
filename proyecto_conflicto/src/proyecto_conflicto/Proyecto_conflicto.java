@@ -17,6 +17,8 @@ public class Proyecto_conflicto {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola mundo");
+        System.out.println("adios mundo");
+        System.out.println("arriba españa");
         System.out.println("Pedro snachez dimision");
     }
     
